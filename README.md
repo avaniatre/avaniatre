@@ -14,4 +14,9 @@ I'm a Software Engineer at Microsoft.
 ## 🛠 Skills
 <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 
+
+<a href="https://github.com/avaniatre">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avaniatre&theme=material-palenight" />
+
+
   
